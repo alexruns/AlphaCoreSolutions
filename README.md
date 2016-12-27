@@ -1,3 +1,3 @@
 # AlphaCoreSolutions
 This is the website for AlphaCore.Solutions 
-Copyright 2016 AlphaCore Solutions
+/n Copyright 2016 AlphaCore Solutions
